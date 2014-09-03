@@ -11,11 +11,11 @@ development:
 production:
   adapter: postgresql
   encoding: unicode
-  database: d6h4kad8pdg0vd
+  database: d8au9j6ocvojhv
   pool: 5
-  username: amasrrvijnkopb
-  password: mRasTksdD9JN7SH0niJv7-gm93
-  host: ec2-54-204-21-178.compute-1.amazonaws.com
+  username: cksejlxpnnsayd
+  password: s1SZRisAMt1lFGp0LxGb85WYZ5
+  host: ec2-54-197-241-95.compute-1.amazonaws.com
   port: 5432
 
 test:

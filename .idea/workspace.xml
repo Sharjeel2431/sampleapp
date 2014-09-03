@@ -26,7 +26,7 @@
       <file leaf-file-name="database.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="12" selection-start="378" selection-end="378" vertical-scroll-proportion="0.8095238" vertical-offset="0" max-vertical-offset="612">
+            <state line="13" column="26" selection-start="239" selection-end="239" vertical-scroll-proportion="0.58465606" vertical-offset="0" max-vertical-offset="612">
               <folding />
             </state>
           </provider>
@@ -326,7 +326,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="12" selection-start="378" selection-end="378" vertical-scroll-proportion="0.8095238" vertical-offset="0" max-vertical-offset="612">
+        <state line="13" column="26" selection-start="239" selection-end="239" vertical-scroll-proportion="0.58465606" vertical-offset="0" max-vertical-offset="612">
           <folding />
         </state>
       </provider>
