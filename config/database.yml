@@ -1,0 +1,20 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: sampleapp_db
+  host: localhost
+  pool: 5
+  username: postgres
+  password: 123
+  port: 5432
+
+test:
+    adapter: postgresql
+    encoding: unicode
+    database: sampleapp_db
+    host: localhost
+    pool: 5
+    username: postgres
+    password: 123
+    port: 5432
+
