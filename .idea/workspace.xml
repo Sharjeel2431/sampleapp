@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="611ccd4e-0f14-434f-bfe3-098b540f73fc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Development__sampleapp.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Production__sampleapp.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/spec__sampleapp.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/test__sampleapp.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sampleapp.iws" />
@@ -51,7 +46,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/students/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="9" selection-start="229" selection-end="229" vertical-scroll-proportion="0.66853935" vertical-offset="0" max-vertical-offset="663">
+            <state line="6" column="25" selection-start="104" selection-end="104" vertical-scroll-proportion="0.28651685" vertical-offset="0" max-vertical-offset="663">
               <folding />
             </state>
           </provider>
@@ -177,6 +172,9 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
     <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Rake.test: sampleapp" />
       <item index="1" class="java.lang.String" itemvalue="Rake.spec: sampleapp" />
@@ -195,7 +193,11 @@
       <created>1409773002837</created>
       <updated>1409773002837</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sharjeel push&#10;">
+      <created>1409773571002</created>
+      <updated>1409773571002</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -236,7 +238,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="sharjeel push" />
-    <option name="LAST_COMMIT_MESSAGE" value="sharjeel push" />
+    <MESSAGE value="sharjeel push&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="sharjeel push&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -279,7 +282,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/students/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="9" selection-start="229" selection-end="229" vertical-scroll-proportion="0.66853935" vertical-offset="0" max-vertical-offset="663">
+        <state line="6" column="25" selection-start="104" selection-end="104" vertical-scroll-proportion="0.28651685" vertical-offset="0" max-vertical-offset="663">
           <folding />
         </state>
       </provider>
